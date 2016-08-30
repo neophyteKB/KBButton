@@ -1,0 +1,14 @@
+KBButton Class  (Swift)
+Custom Button class with following features
+
+IBInspectable UI views to change
+a) Border Color
+b) Border width
+c) Corner Radius
+d) Underline title
+e) Badge Count
+f) Background color for normal and selected state of button
+
+How to use :
+Add KBButton to your project
+Replace name of class from UIButton to KBButton
